@@ -1,7 +1,7 @@
-h1. Installation
+# Installation
 install node js
 npm install cheerio request
 
-h2. package info
+# Package Info
 request: http client
 cheerio: parses html and creates jquery object so you easily traverse html
